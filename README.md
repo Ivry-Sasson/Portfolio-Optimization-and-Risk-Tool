@@ -108,4 +108,4 @@ Finance & Economics | University of Pittsburgh
 [LinkedIn](https://linkedin.com/in/ivry-sasson) | ivrysasson@gmail.com
 
 ## Acknowledgments
-Built with assistance from Claude (Anthropic) as an AI pair programming tool.
+Built with assistance from Claude as an AI pair programming tool.
