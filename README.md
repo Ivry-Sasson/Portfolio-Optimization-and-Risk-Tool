@@ -102,12 +102,5 @@ NUM_PORTFOLIOS = 10000
 
 ---
 
-## Author
-
-**Ivry Sasson**  
-Finance & Economics | University of Pittsburgh
-
-ivrysasson@gmail.com
-
 ## Acknowledgments
 Built with assistance from Claude as an AI pair programming tool.
