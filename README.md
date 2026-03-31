@@ -23,19 +23,23 @@ Built in Python and designed to run fully in Google Colab, no setup required.
 ## Screenshots
 
 ### Efficient Frontier & Capital Market Line
-*<img width="855" height="606" alt="Screenshot 2026-03-30 at 10 49 07 PM" src="https://github.com/user-attachments/assets/384af53d-45ea-48e9-aa2d-089ac5fef32d" />*
+*<img width="855" height="602" alt="Screenshot 2026-03-30 at 11 07 28 PM" src="https://github.com/user-attachments/assets/4450a654-e2ad-4bb3-9dd3-b09936b8b6fe" />*
+
 
 
 ### Correlation Matrix
-*<img width="610" height="508" alt="Screenshot 2026-03-30 at 10 47 51 PM" src="https://github.com/user-attachments/assets/db81e36e-60e7-4472-bdc4-7a30e589e43e" />*
+*<img width="605" height="503" alt="Screenshot 2026-03-30 at 11 06 46 PM" src="https://github.com/user-attachments/assets/4caf395b-38b9-42ac-8797-a37deb162d33" />*
+
 
 
 ### Optimal Portfolio Allocations
-*<img width="857" height="454" alt="Screenshot 2026-03-30 at 10 49 46 PM" src="https://github.com/user-attachments/assets/27916b7a-785b-41f0-80cb-77e825100b80" />*
+*<img width="856" height="454" alt="Screenshot 2026-03-30 at 11 08 00 PM" src="https://github.com/user-attachments/assets/a67f3ece-803e-4f72-ae60-785398e939dc" />*
+
 
 
 ### Cumulative Returns
-*<img width="856" height="503" alt="Screenshot 2026-03-30 at 10 50 28 PM" src="https://github.com/user-attachments/assets/5c8c552c-9987-4999-8358-01a52f6901a9" />*
+*<img width="854" height="502" alt="Screenshot 2026-03-30 at 11 08 27 PM" src="https://github.com/user-attachments/assets/aa282f29-b50e-4a7f-bffd-f69b893f8cd2" />*
+
 
 
 ---
