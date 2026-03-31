@@ -40,7 +40,7 @@ Built in Python and designed to run fully in Google Colab, no setup required.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the notebook in Google Colab: [Open in Colab](https://colab.research.google.com/)
 2. Upload the `.ipynb` file or open directly from GitHub
@@ -51,7 +51,7 @@ No API keys required. All data is fetched free from Yahoo Finance.
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 All user settings are in **Section 2** of the notebook:
 
@@ -75,7 +75,7 @@ NUM_PORTFOLIOS = 10000
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Tool | Purpose |
 |---|---|
@@ -87,19 +87,7 @@ NUM_PORTFOLIOS = 10000
 
 ---
 
-## 📐 Finance Concepts Demonstrated
-
-- **Modern Portfolio Theory (MPT)** — Harry Markowitz (1952) framework for portfolio optimization
-- **Efficient Frontier** — curve of portfolios maximizing return for a given level of risk
-- **Capital Market Line (CML)** — optimal risk/return line from the risk-free rate through the Max Sharpe portfolio
-- **Sharpe Ratio** — excess return per unit of risk
-- **Historical VaR** — percentile-based loss estimation from actual return distribution
-- **Beta** — systematic market risk relative to S&P 500
-- **Log Returns** — continuously compounded returns used for statistical accuracy
-
----
-
-## 🔮 Future Improvements
+## Future Improvements
 
 - Replace Monte Carlo simulation with SciPy quadratic optimization for mathematically exact efficient frontier
 - Add CVaR (Conditional Value at Risk / Expected Shortfall) alongside VaR
@@ -108,7 +96,7 @@ NUM_PORTFOLIOS = 10000
 
 ---
 
-## 👤 Author
+## Author
 
 **Ivry Sasson**  
 Finance & Economics | University of Pittsburgh  
