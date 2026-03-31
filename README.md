@@ -73,7 +73,7 @@ START_DATE = (date.today() - relativedelta(years=7)).strftime('%Y-%m-%d')
 # Fetched live from Yahoo Finance (^IRX)
 RISK_FREE_RATE = ...
 
-# 95% confidence — industry standard (banks use 0.99 under Basel regulations)
+# 95% confidence — industry standard
 VAR_CONFIDENCE = 0.95
 
 # Increase for a smoother efficient frontier
