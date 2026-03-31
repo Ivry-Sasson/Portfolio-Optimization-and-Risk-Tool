@@ -9,7 +9,8 @@ Built in Python and designed to run fully in Google Colab, no setup required.
 ## Features
 
 - **Sharpe Ratio** — measures risk-adjusted return relative to the current 3-month T-bill rate (fetched live)
-- **Value at Risk (VaR)** — estimates worst expected daily loss at 95% confidence using historical simulation
+- - **CVaR (Conditional Value at Risk)** — average loss on the worst 5% of days, 
+  a more accurate tail risk measure than VaR and required under Basel III regulations
 - **Maximum Drawdown** — measures largest peak-to-trough decline over the analysis period
 - **Beta** — measures sensitivity to S&P 500 market movements
 - **Correlation Matrix** — heatmap showing how assets move relative to each other
