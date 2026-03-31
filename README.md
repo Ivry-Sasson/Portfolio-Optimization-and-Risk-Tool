@@ -1,6 +1,6 @@
 # Portfolio-Optimization-and-Risk-Tool
 
-Analyzes user-defined portfolios of stocks, ETFs, and bond funds using key risk metrics and applies Modern Portfolio Theory (MPT) to identify optimal portfolio allocations via the Efficient Frontier and Capital Market Line.
+Analyzes user-defined portfolios of stocks, ETFs, bond funds, and REITs  using key risk metrics and applies Modern Portfolio Theory (MPT) to identify optimal portfolio allocations via the Efficient Frontier and Capital Market Line.
 
 Built in Python and designed to run fully in Google Colab, no setup required.
 
