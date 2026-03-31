@@ -95,7 +95,6 @@ NUM_PORTFOLIOS = 10000
 ## Future Improvements
 
 - Replace Monte Carlo simulation with SciPy quadratic optimization for mathematically exact efficient frontier
-- Add CVaR (Conditional Value at Risk / Expected Shortfall) alongside VaR
 - Add portfolio rebalancing simulation over time
 - Support for commodity futures and crypto with data cleaning pipeline
 
