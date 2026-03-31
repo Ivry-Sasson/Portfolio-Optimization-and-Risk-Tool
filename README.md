@@ -1,5 +1,4 @@
 # Portfolio-Optimization-and-Risk-Tool
-# Portfolio Risk & Optimization Tool
 
 Analyzes user-defined portfolios of stocks, ETFs, and bond funds using key risk metrics and applies Modern Portfolio Theory (MPT) to identify optimal portfolio allocations via the Efficient Frontier and Capital Market Line.
 
