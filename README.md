@@ -38,7 +38,8 @@ Built in Python and designed to run fully in Google Colab, no setup required.
 
 
 ### Cumulative Returns
-*<img width="854" height="502" alt="Screenshot 2026-03-30 at 11 08 27 PM" src="https://github.com/user-attachments/assets/aa282f29-b50e-4a7f-bffd-f69b893f8cd2" />*
+*<img width="854" height="502" alt="Screenshot 2026-03-30 at 11 09 45 PM" src="https://github.com/user-attachments/assets/b1821707-80d3-45c7-9744-730c30fe6654" />*
+
 
 
 
