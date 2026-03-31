@@ -70,8 +70,7 @@ TICKERS = ['SPY', 'TLT', 'GOOGL', 'JPM', 'VNQ']
 END_DATE   = date.today().strftime('%Y-%m-%d')
 START_DATE = (date.today() - relativedelta(years=7)).strftime('%Y-%m-%d')
 
-# Fetched live from Yahoo Finance (^IRX)
-RISK_FREE_RATE = ...
+# Risk-free rate — fetched dynamically in Section 1 from Yahoo Finance (^IRX, 3-month T-bill)
 
 # 95% confidence — industry standard
 VAR_CONFIDENCE = 0.95
