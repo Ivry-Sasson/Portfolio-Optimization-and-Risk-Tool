@@ -53,7 +53,7 @@ No API keys required. All data is fetched free from Yahoo Finance.
 
 ## Configuration
 
-All user settings are in **Section 2** of the notebook:
+All user inputs are in **Section 2** of the notebook:
 
 ```python
 # Supported: Individual stocks (AAPL), ETFs (SPY, VOO), Bond funds (TLT, AGG), REITs (VNQ)
