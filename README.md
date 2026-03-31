@@ -105,7 +105,8 @@ NUM_PORTFOLIOS = 10000
 ## Author
 
 **Ivry Sasson**  
-Finance & Economics |University of Pittsburgh
+Finance & Economics | University of Pittsburgh
+
 ivrysasson@gmail.com
 
 ## Acknowledgments
