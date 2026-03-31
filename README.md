@@ -106,3 +106,6 @@ NUM_PORTFOLIOS = 10000
 **Ivry Sasson**  
 Finance & Economics | University of Pittsburgh  
 [LinkedIn](https://linkedin.com/in/ivry-sasson) | ivrysasson@gmail.com
+
+## Acknowledgments
+Built with assistance from Claude (Anthropic) as an AI pair programming tool.
