@@ -23,17 +23,20 @@ Built in Python and designed to run fully in Google Colab — no setup required.
 ## Screenshots
 
 ### Efficient Frontier & Capital Market Line
-*Add screenshot here*
+*<img width="855" height="606" alt="Screenshot 2026-03-30 at 10 49 07 PM" src="https://github.com/user-attachments/assets/384af53d-45ea-48e9-aa2d-089ac5fef32d" />*
+
 
 ### Correlation Matrix
 *<img width="610" height="508" alt="Screenshot 2026-03-30 at 10 47 51 PM" src="https://github.com/user-attachments/assets/db81e36e-60e7-4472-bdc4-7a30e589e43e" />*
 
 
 ### Optimal Portfolio Allocations
-*Add screenshot here*
+*<img width="857" height="454" alt="Screenshot 2026-03-30 at 10 49 46 PM" src="https://github.com/user-attachments/assets/27916b7a-785b-41f0-80cb-77e825100b80" />*
+
 
 ### Cumulative Returns
-*Add screenshot here*
+*<img width="856" height="503" alt="Screenshot 2026-03-30 at 10 50 28 PM" src="https://github.com/user-attachments/assets/5c8c552c-9987-4999-8358-01a52f6901a9" />*
+
 
 ---
 
