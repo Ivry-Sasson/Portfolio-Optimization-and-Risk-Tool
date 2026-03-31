@@ -61,7 +61,7 @@ No API keys required. All data is fetched free from Yahoo Finance.
 ## Configuration
 
 All parameters are in **Section 2** of the notebook:
-Tickers, time frame, VaR confidence level, and number of simulation portfolios are all customizable
+Tickers, time frame, VaR confidence level, and number of simulation portfolios are all customizable.
 
 ```python
 # Supported: Individual stocks (AAPL), ETFs (SPY, VOO), Bond funds (TLT, AGG), REITs (VNQ)
