@@ -4,6 +4,10 @@ Analyzes user-defined portfolios of stocks, ETFs, bond funds, and REITs  using k
 
 Built in Python and designed to run fully in Google Colab, no setup required.
 
+
+## Acknowledgments
+Built with assistance from Claude
+
 ---
 
 ## Features
@@ -102,5 +106,3 @@ NUM_PORTFOLIOS = 10000
 
 ---
 
-## Acknowledgments
-Built with assistance from Claude
