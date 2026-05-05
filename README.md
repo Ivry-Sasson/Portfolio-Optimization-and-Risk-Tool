@@ -103,4 +103,4 @@ NUM_PORTFOLIOS = 10000
 ---
 
 ## Acknowledgments
-Built with assistance from Claude as an AI pair programming tool.
+Built with assistance from Claude
